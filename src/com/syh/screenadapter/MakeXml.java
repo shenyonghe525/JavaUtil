@@ -27,6 +27,7 @@ public class MakeXml {
 		makeString(720, 1280);
 		makeString(768, 1024);
 		makeString(800, 1280);
+		makeString(1080, 1776);
 		makeString(1080, 1812);
 		makeString(1080, 1920);
 		makeString(1440, 2560);
