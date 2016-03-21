@@ -80,7 +80,7 @@ public class MakeXml {
 		{
 			e.printStackTrace();
 		}
-
+		System.out.println("finish"+w+":"+h);
 	}
 
 	public static float change(float a)
